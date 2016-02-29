@@ -1,0 +1,22 @@
+.url_Form{
+    padding-top: 50px ;
+    width:50%; 
+    margin:0 auto;
+    padding-bottom: 50px ;
+}
+
+.arrow{
+    padding-left: 50px ;
+    margin: 0 auto; 
+    font-size:100px; 
+    color:green;
+    vertical-align:middle;
+}
+
+.center{
+    margin: 0 auto; 
+    width:100%;
+    text-align: center;
+    font-size:80px; 
+    padding-top: 50px;
+}
